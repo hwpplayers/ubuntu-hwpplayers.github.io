@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=hwpplayers
+Exec=webapp-container --app-id="hwpplayers.hwpplayers" $@ www/index.html
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

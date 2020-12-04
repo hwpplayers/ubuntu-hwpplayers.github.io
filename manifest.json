@@ -1,0 +1,15 @@
+{
+    "name": "hwpplayers.hwpplayers",
+    "description": "hwpplayers hackerspace web site",
+    "architecture": "@CLICK_ARCH@",
+    "title": "hwpplayers",
+    "hooks": {
+        "hwpplayers": {
+            "apparmor": "hwpplayers.apparmor",
+            "desktop":  "hwpplayers.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Mert Gör <mertgor@masscollabs.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
