@@ -4,9 +4,27 @@ hwpplayers hackerspace web site
 
 ## License
 
-hwpplayers hackerspace web site        
+hwpplayers hackerspace web site 
 
 Copyright (C) 2020  Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
+
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2024-2025 hwpplayers and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
