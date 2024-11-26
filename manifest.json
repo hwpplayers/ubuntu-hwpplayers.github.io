@@ -1,5 +1,5 @@
 {
-    "name": "hwpplayers.hwpplayers",
+    "name": "hwpplayers.hwpplayer1",
     "description": "hwpplayers hackerspace web site",
     "architecture": "@CLICK_ARCH@",
     "title": "hwpplayers",
@@ -11,5 +11,5 @@
     },
     "version": "2.0.0",
     "maintainer": "Mert Gör <mertgor@masscollabs.xyz>",
-    "framework" : "ubuntu-sdk-16.04"
+    "framework" : "@CLICK_FRAMEWORK@"
 }
